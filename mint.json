@@ -8,7 +8,12 @@
     "dark": "#312E81"
   },
   "navigation": [
-    "home",
+    {
+      "group": "Welcome",
+      "pages": [
+        "home"
+      ]
+    },
     {
       "group": "User Manual",
       "pages": [
@@ -30,7 +35,7 @@
     {
       "group": "Contact Us",
       "pages": [
-        "home"
+        "contact/README"
       ]
     }
   ]
