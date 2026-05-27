@@ -1,0 +1,30 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "SouthBridge Docs",
+  "navigation": [
+    {
+      "group": "User Manual",
+      "pages": [
+        "user-manual/README"
+      ]
+    },
+    {
+      "group": "Documentation",
+      "pages": [
+        "documentation/README"
+      ]
+    },
+    {
+      "group": "IT Docs",
+      "pages": [
+        "it-docs/README"
+      ]
+    },
+    {
+      "group": "Contact Us",
+      "pages": [
+        "contact/README"
+      ]
+    }
+  ]
+}
