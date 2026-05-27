@@ -8,6 +8,7 @@
     "dark": "#312E81"
   },
   "navigation": [
+    "home",
     {
       "group": "User Manual",
       "pages": [
